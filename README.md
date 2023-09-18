@@ -5,3 +5,4 @@ List of interactive ML demos
 - TensorFlow neural network playground [[code]](https://github.com/tensorflow/playground) [[demo]](https://playground.tensorflow.org/)
 - Adam Harley's CNN visualizations [[code]](https://github.com/aharley/nn_vis) [[demo]](https://adamharley.com/nn_vis/)
 - OpenAI Microscope [[demo]](https://microscope.openai.com/models)
+- Yarin Gal's MC Dropout Visualization [[demo]](https://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html)
