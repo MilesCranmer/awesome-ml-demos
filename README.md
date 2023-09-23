@@ -1,6 +1,6 @@
 # Awesome Machine Learning Demos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of interactive ML demos
+A curated list of interactive demonstrations in machine learning and ML-adjacent topics
 
 - Chi Feng's MCMC demo [[code]](https://github.com/chi-feng/mcmc-demo) [[demo]](https://chi-feng.github.io/mcmc-demo/app.html)
 - TensorFlow neural network playground [[code]](https://github.com/tensorflow/playground) [[demo]](https://playground.tensorflow.org/)
