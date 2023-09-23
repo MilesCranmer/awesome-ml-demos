@@ -11,3 +11,5 @@ A curated list of interactive demonstrations in machine learning and ML-adjacent
   - Adam Harley's CNN visualizations [[code]](https://github.com/aharley/nn_vis) [[demo]](https://adamharley.com/nn_vis/)
   - Zijie Wang et al.'s CNN explainer [[code]](https://github.com/poloclub/cnn-explainer) [[demo]](https://poloclub.github.io/cnn-explainer/)
   - OpenAI Microscope [[demo]](https://microscope.openai.com/models)
+- Unsupervised learning and preprocessing
+  - K-means clustering [[demo]](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
