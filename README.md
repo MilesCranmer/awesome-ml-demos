@@ -1,4 +1,5 @@
-# awesome-ml-demos
+# Awesome Machine Learning Demos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 List of interactive ML demos
 
 - Chi Feng's MCMC demo [[code]](https://github.com/chi-feng/mcmc-demo) [[demo]](https://chi-feng.github.io/mcmc-demo/app.html)
