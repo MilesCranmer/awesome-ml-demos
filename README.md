@@ -13,3 +13,4 @@ A curated list of interactive demonstrations in machine learning and ML-adjacent
   - OpenAI Microscope [[demo]](https://microscope.openai.com/models)
 - Unsupervised learning and preprocessing
   - K-means clustering [[demo]](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+  - DBSCAN [[demo]](https://github.com/GeostatsGuy/DataScienceInteractivePython/blob/main/Interactive_DBSCAN.ipynb)
